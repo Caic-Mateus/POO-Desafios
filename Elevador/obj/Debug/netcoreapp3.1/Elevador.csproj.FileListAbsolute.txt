@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.exe
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.deps.json
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.runtimeconfig.json
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.dll
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\bin\Debug\netcoreapp3.1\Elevador.pdb
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.AssemblyInfo.cs
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.dll
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.pdb
+C:\Users\caicm\Desktop\POO\Desafios\Elevador\obj\Debug\netcoreapp3.1\Elevador.genruntimeconfig.cache
